@@ -1,7 +1,7 @@
 const typingText = [
     "Actuellement en Licence Pro Administrateur Systèmes & Sécurité.",
-    "Passionné de cybersécurité et d’infra réseau.",
-    "Toujours en quête de nouveaux projets."
+    "Passionné par la cybersécurité et les infrastructures.",
+    "Toujours en quête de nouveaux projets et défis."
 ];
 
 let i = 0;
